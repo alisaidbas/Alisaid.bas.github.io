@@ -1,0 +1,14 @@
+user]
+        name = alisaid
+        email = bas.alisaid@gmail.com
+[core]
+        editor = nano
+[init]
+        defaultBranch = main
+[credential]
+        helper = store
+[alias]
+        co = checkout
+        st = status
+        c = commit
+        b = branch
